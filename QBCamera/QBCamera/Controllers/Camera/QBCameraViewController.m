@@ -96,6 +96,7 @@
     
     [[self.photobrowserButton layer] setCornerRadius:CGRectGetHeight(self.photobrowserButton.frame) / 2];
     [[self.photobrowserButton layer] setMasksToBounds:YES];
+    [self.photobrowserButton setHidden:YES];
     
     __weak QBCameraViewController *camera = self;
     [camera.filtersButton setCallback:^(id sender){

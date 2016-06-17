@@ -7,37 +7,37 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		B3018CF91BB3F19C0078ACBE /* BLLookUpFilter.m in Sources */ = {isa = PBXBuildFile; fileRef = B3018CF81BB3F19C0078ACBE /* BLLookUpFilter.m */; settings = {ASSET_TAGS = (); }; };
-		B3018CFD1BB3F1CC0078ACBE /* DylanLookUp.png in Resources */ = {isa = PBXBuildFile; fileRef = B3018CFC1BB3F1CC0078ACBE /* DylanLookUp.png */; settings = {ASSET_TAGS = (); }; };
-		B3018CFF1BB3FF680078ACBE /* RedMelonLookUp.png in Resources */ = {isa = PBXBuildFile; fileRef = B3018CFE1BB3FF680078ACBE /* RedMelonLookUp.png */; settings = {ASSET_TAGS = (); }; };
-		B3018D011BB4034B0078ACBE /* MinusReverseLookUp.png in Resources */ = {isa = PBXBuildFile; fileRef = B3018D001BB4034B0078ACBE /* MinusReverseLookUp.png */; settings = {ASSET_TAGS = (); }; };
+		B3018CF91BB3F19C0078ACBE /* BLLookUpFilter.m in Sources */ = {isa = PBXBuildFile; fileRef = B3018CF81BB3F19C0078ACBE /* BLLookUpFilter.m */; };
+		B3018CFD1BB3F1CC0078ACBE /* DylanLookUp.png in Resources */ = {isa = PBXBuildFile; fileRef = B3018CFC1BB3F1CC0078ACBE /* DylanLookUp.png */; };
+		B3018CFF1BB3FF680078ACBE /* RedMelonLookUp.png in Resources */ = {isa = PBXBuildFile; fileRef = B3018CFE1BB3FF680078ACBE /* RedMelonLookUp.png */; };
+		B3018D011BB4034B0078ACBE /* MinusReverseLookUp.png in Resources */ = {isa = PBXBuildFile; fileRef = B3018D001BB4034B0078ACBE /* MinusReverseLookUp.png */; };
 		B30F85A81BA934DB00F5614A /* BLGreenBlueOverlayBlendFilter.fsh in Resources */ = {isa = PBXBuildFile; fileRef = B30F85A71BA934DB00F5614A /* BLGreenBlueOverlayBlendFilter.fsh */; };
 		B30F85AC1BA95F1700F5614A /* BLHighContrastFilter.m in Sources */ = {isa = PBXBuildFile; fileRef = B30F85AB1BA95F1700F5614A /* BLHighContrastFilter.m */; };
-		B31551221BB51D4C0019941F /* RGBAnimateView.m in Sources */ = {isa = PBXBuildFile; fileRef = B31551211BB51D4C0019941F /* RGBAnimateView.m */; settings = {ASSET_TAGS = (); }; };
-		B315512B1BB52A200019941F /* FeBasicAnimationBlock.m in Sources */ = {isa = PBXBuildFile; fileRef = B315512A1BB52A200019941F /* FeBasicAnimationBlock.m */; settings = {ASSET_TAGS = (); }; };
-		B315512E1BB52A450019941F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B315512D1BB52A440019941F /* Images.xcassets */; settings = {ASSET_TAGS = (); }; };
-		B315513B1BB550D50019941F /* QBCameraViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B31551371BB550D50019941F /* QBCameraViewController.m */; settings = {ASSET_TAGS = (); }; };
-		B315513C1BB550D50019941F /* QBPhotosViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B315513A1BB550D50019941F /* QBPhotosViewController.m */; settings = {ASSET_TAGS = (); }; };
-		B31551401BB551100019941F /* QBPhotosCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B315513F1BB551100019941F /* QBPhotosCollectionViewCell.m */; settings = {ASSET_TAGS = (); }; };
-		B31551421BB7D29C0019941F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B31551411BB7D29C0019941F /* Assets.xcassets */; settings = {ASSET_TAGS = (); }; };
-		B31551461BB7DA4A0019941F /* QBEditViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B31551451BB7DA4A0019941F /* QBEditViewController.m */; settings = {ASSET_TAGS = (); }; };
+		B31551221BB51D4C0019941F /* RGBAnimateView.m in Sources */ = {isa = PBXBuildFile; fileRef = B31551211BB51D4C0019941F /* RGBAnimateView.m */; };
+		B315512B1BB52A200019941F /* FeBasicAnimationBlock.m in Sources */ = {isa = PBXBuildFile; fileRef = B315512A1BB52A200019941F /* FeBasicAnimationBlock.m */; };
+		B315512E1BB52A450019941F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B315512D1BB52A440019941F /* Images.xcassets */; };
+		B315513B1BB550D50019941F /* QBCameraViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B31551371BB550D50019941F /* QBCameraViewController.m */; };
+		B315513C1BB550D50019941F /* QBPhotosViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B315513A1BB550D50019941F /* QBPhotosViewController.m */; };
+		B31551401BB551100019941F /* QBPhotosCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B315513F1BB551100019941F /* QBPhotosCollectionViewCell.m */; };
+		B31551421BB7D29C0019941F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B31551411BB7D29C0019941F /* Assets.xcassets */; };
+		B31551461BB7DA4A0019941F /* QBEditViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B31551451BB7DA4A0019941F /* QBEditViewController.m */; };
 		B31988AB1B9B334200DDD87D /* SampleConfiguration.plist in Resources */ = {isa = PBXBuildFile; fileRef = B31988AA1B9B334200DDD87D /* SampleConfiguration.plist */; };
 		B32B6A8BB15DD14B6ED967A8 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6CBE952917AC3218A132BE33 /* libPods.a */; };
-		B335B3BA1BC6B21000337A43 /* QBFiltersContainerView.m in Sources */ = {isa = PBXBuildFile; fileRef = B335B3B91BC6B21000337A43 /* QBFiltersContainerView.m */; settings = {ASSET_TAGS = (); }; };
-		B335B3BF1BC7CB5400337A43 /* Camera.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B335B3BE1BC7CB5400337A43 /* Camera.storyboard */; settings = {ASSET_TAGS = (); }; };
+		B335B3BA1BC6B21000337A43 /* QBFiltersContainerView.m in Sources */ = {isa = PBXBuildFile; fileRef = B335B3B91BC6B21000337A43 /* QBFiltersContainerView.m */; };
+		B335B3BF1BC7CB5400337A43 /* Camera.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B335B3BE1BC7CB5400337A43 /* Camera.storyboard */; };
 		B3463D801B9AA70D00859383 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B3463D7F1B9AA70D00859383 /* main.m */; };
 		B3463D831B9AA70D00859383 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B3463D821B9AA70D00859383 /* AppDelegate.m */; };
 		B3463D891B9AA70D00859383 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B3463D871B9AA70D00859383 /* Main.storyboard */; };
 		B3463D8E1B9AA70D00859383 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B3463D8C1B9AA70D00859383 /* LaunchScreen.xib */; };
 		B3463D9A1B9AA70D00859383 /* QBCameraTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B3463D991B9AA70D00859383 /* QBCameraTests.m */; };
-		B36C9D131BBDFD6F00352123 /* QBAbstractViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B36C9D121BBDFD6F00352123 /* QBAbstractViewController.m */; settings = {ASSET_TAGS = (); }; };
+		B36C9D131BBDFD6F00352123 /* QBAbstractViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B36C9D121BBDFD6F00352123 /* QBAbstractViewController.m */; };
 		B3A036AE1BAA589C000CF047 /* BLHardLightFilter.m in Sources */ = {isa = PBXBuildFile; fileRef = B3A036AD1BAA589C000CF047 /* BLHardLightFilter.m */; };
 		B3A036B31BAA9FDB000CF047 /* BLTwoInputFilter.m in Sources */ = {isa = PBXBuildFile; fileRef = B3A036B21BAA9FDB000CF047 /* BLTwoInputFilter.m */; };
-		B3B04F981BCBE79A00E1D5B8 /* QBEditTextCustomView.m in Sources */ = {isa = PBXBuildFile; fileRef = B3B04F971BCBE79A00E1D5B8 /* QBEditTextCustomView.m */; settings = {ASSET_TAGS = (); }; };
-		B3B04F9A1BCBE7B100E1D5B8 /* QBEditTextCustomView.xib in Resources */ = {isa = PBXBuildFile; fileRef = B3B04F991BCBE7B100E1D5B8 /* QBEditTextCustomView.xib */; settings = {ASSET_TAGS = (); }; };
+		B3B04F981BCBE79A00E1D5B8 /* QBEditTextCustomView.m in Sources */ = {isa = PBXBuildFile; fileRef = B3B04F971BCBE79A00E1D5B8 /* QBEditTextCustomView.m */; };
+		B3B04F9A1BCBE7B100E1D5B8 /* QBEditTextCustomView.xib in Resources */ = {isa = PBXBuildFile; fileRef = B3B04F991BCBE7B100E1D5B8 /* QBEditTextCustomView.xib */; };
 		B3E6D3B31BABF40E0021E610 /* BLMaskFilter.m in Sources */ = {isa = PBXBuildFile; fileRef = B3E6D3B21BABF40E0021E610 /* BLMaskFilter.m */; };
 		B3E6D3B61BAC45D10021E610 /* GPUImageBloomFilter.m in Sources */ = {isa = PBXBuildFile; fileRef = B3E6D3B51BAC45D10021E610 /* GPUImageBloomFilter.m */; };
-		B3EB81B81BCA0BA2003D39F7 /* EditOptions.plist in Resources */ = {isa = PBXBuildFile; fileRef = B3EB81B71BCA0BA2003D39F7 /* EditOptions.plist */; settings = {ASSET_TAGS = (); }; };
+		B3EB81B81BCA0BA2003D39F7 /* EditOptions.plist in Resources */ = {isa = PBXBuildFile; fileRef = B3EB81B71BCA0BA2003D39F7 /* EditOptions.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
